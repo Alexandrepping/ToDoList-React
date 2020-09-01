@@ -18,8 +18,8 @@
 
 - Two components or more;
 
-- component tasks;
+- Component tasks;
 
-- list items component;
+- List items component;
 
 - Task List;
